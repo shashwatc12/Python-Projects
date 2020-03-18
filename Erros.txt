@@ -1,0 +1,3 @@
+Error:
+ 'Instance of .. has no .. member' for class with dynamic attributes
+Solution:  http://pylint-messages.wikidot.com/messages:e1101
