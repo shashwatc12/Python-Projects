@@ -1,3 +1,8 @@
-Error:
+Error1:
  'Instance of .. has no .. member' for class with dynamic attributes
 Solution:  http://pylint-messages.wikidot.com/messages:e1101
+
+Error2: While defining class, there was a mistake in indentation. After class definition, I assinged the variables.
+The variables were not indented correctly. This casued the interpreter to mistakenly consider the assignment of varibles 
+as a part of classs and when I was debugging it threw error variable not defined which was the calss name. This was not apparent 
+in the pylint code check. 
