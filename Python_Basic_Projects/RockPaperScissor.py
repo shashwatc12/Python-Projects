@@ -6,7 +6,7 @@
  Assign the value of Rock,Paper and Scissor 
  Give option to quit
  Let user give the input 
- Generate Rock Paper Sccissor for opponent 
+ Generate Rock Paper Scissor for opponent 
  Compare the input with the given variable and let user know if he won, lost or it tied
  Keep the counter for win,loss or ties
  End the program if player choses to quit"""
