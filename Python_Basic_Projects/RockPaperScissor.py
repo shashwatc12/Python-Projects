@@ -3,7 +3,7 @@
 # Program: RockPaperScissor Game
 #Pseudocode
 """ Get initial Wins, Losses Ties
- Assin the value of Rock,Paper and Scissor 
+ Assign the value of Rock,Paper and Scissor 
  Give option to quit
  Let user give the input 
  Generate Rock Paper Sccissor for opponent 
@@ -40,7 +40,7 @@ while True:
         elif userinput=='s':
             print('SCISSOR VERSUS')
     else: 
-        print('Please only provide the follwing values: r,p,c,q ')
+        print('Please only provide the following values: r,p,c,q ')
         break
 
     pcinputnum=random.randint(1,3)
